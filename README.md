@@ -45,4 +45,4 @@ For more detailed instructions, please refer to the project documentation in the
 
 ## Repository
 
-The project repository can be found on GitHub: [https://github.com/jonasmachados/crud-employee](https://github.com/jonasmachados/crud-employee)
+The project repository can be found on GitHub: [[https://github.com/jonasmachados/crud-employee](https://github.com/ManojMani12/employee-crud-demo)]
